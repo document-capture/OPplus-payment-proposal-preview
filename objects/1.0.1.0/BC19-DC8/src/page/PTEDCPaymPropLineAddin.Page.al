@@ -1,5 +1,5 @@
 #pragma implicitwith disable
-page 62000 "ADV Paym. Prop. Line Addin"
+page 62010 "PTE DC Paym. Prop. Line Addin"
 {
     Caption = 'Document Capture Client Addin';
     DeleteAllowed = false;

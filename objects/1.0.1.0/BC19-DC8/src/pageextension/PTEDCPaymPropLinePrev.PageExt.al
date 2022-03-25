@@ -1,10 +1,10 @@
-pageextension 62001 "CDC Paym. Prop. Line Preview" extends "OPP Payment Proposal Lines"
+pageextension 62010 "PTE DC Paym. Prop. Line Prev" extends "OPP Payment Proposal Lines"
 {
     layout
     {
         addfirst(factboxes)
         {
-            part(CDCCaptureUI; "ADV Paym. Prop. Line Addin")
+            part(CDCCaptureUI; "PTE DC Paym. Prop. Line Addin")
             {
                 Caption = 'Document';
                 SubPageLink = "Journal Template Name" = field("Journal Template Name"),
