@@ -1,1 +1,3 @@
 objects/*/*/.alpackages/*.app
+objects/*/*/.vscode/.alcache/*.*
+objects/*/*/.vscode/launch.json
